@@ -33,7 +33,7 @@ What are the different paradigms of machine learning
 Supervised learning  
 Unsupervsed learning  
 Semi Supervised Learning.  
-Reinforcement Learning.
+Reinforcement Learning.  
 Deep Learning
 
 
