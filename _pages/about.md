@@ -34,7 +34,7 @@ Supervised learning
 Unsupervsed learning  
 Semi Supervised Learning.  
 Reinforcement Learning.
-
+Deep Learning
 
 
 What are the different tribes of machine learning
