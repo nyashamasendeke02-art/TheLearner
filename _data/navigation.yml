@@ -9,13 +9,14 @@
 
 main:
 
-  - title: "Supervised Learning"
-    url: /Supervised%20Learning.html   
+  - title: Machine Learning
+  children:
+    - title: Supervised Learning
+      url: /supervised-learning/
+    - title: Unsupervised Learning
+      url: /unsupervised-learning/
+    - title: Reinforcement Learning
+      url: /reinforcement-learning/
 
-  - title: "Usupervised Learning"
-    url: /Unsupervised%20Learning.html    
-    
-  - title: "Reinforcement Learning"
-    url: /Reinforcement%20Learning.html
         
 
