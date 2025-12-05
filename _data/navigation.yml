@@ -8,9 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-
-  - title: Machine Learning
-  children:
     - title: Supervised Learning
       url: /supervised-learning/
     - title: Unsupervised Learning
